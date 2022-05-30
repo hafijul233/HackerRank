@@ -1,0 +1,17 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+#btns {
+    width:70%;
+    display: block;
+}
+.block {
+    display: block;
+}
+.btn {
+    width: 30%;
+    height: 48px;
+    font-size: 24px;
+}
