@@ -4,7 +4,7 @@ function regexVar() {
      * It must match a string that starts and ends with the same vowel (i.e., {a, e, i, o, u})
      */
 
-    const re = new RegExp('^([aeiou])(.*)\\1$');
+    const re = new RegExp('([0-9]+)', 'ig');
     /*
      * Do not remove the return statement
      */
