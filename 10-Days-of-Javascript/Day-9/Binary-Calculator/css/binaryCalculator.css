@@ -1,0 +1,48 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+
+body {
+    width: 33%;
+}
+
+#container {
+    width:70%;
+    display: block;
+}
+
+.block {
+    width: 100%;
+    display: block;
+}
+
+#res {
+    background-color : lightgray;
+    border: 2px solid black;
+    height: 48px;
+    font-size: 20px;
+}
+
+.btn {
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin: 0px;
+    float: left;
+}
+
+.operation {
+    background-color: black;
+    color: red;
+}
+
+.action {
+    background-color: darkgreen;
+    color: white;
+}
+
+.num {
+    background-color: lightgreen;
+    color: brown;
+}
