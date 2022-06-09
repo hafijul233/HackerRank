@@ -6,8 +6,7 @@ I have solved problems on **(JavaScript, PHP, C++, Python, SQL)** programming la
 ### 1. [10 Days of Javascript](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 ![10 Days of Javascript](10-days-of-javascript.png)
 ### 2. [30 Days of Code](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
-![30 Days of Code](10-days-of-javascript.png)
-
-
-
+![30 Days of Code](30-days-of-code.png)
+### 3. [SQL](https://www.hackerrank.com/domains/sql)
+![SQL](sql.png)
 
